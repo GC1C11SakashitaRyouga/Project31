@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main() {
 	printf("hellow VisualStudio Git");
-	printf("PullRequest  branch changed\n");
+	printf("hellow New branch");
  }
